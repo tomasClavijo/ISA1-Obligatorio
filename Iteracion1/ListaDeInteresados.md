@@ -1,0 +1,8 @@
+- Individuos interesados en conocer cierres de calles
+- Individuos interesados en conocer alteraciones en recorridos de ómnibus
+- Individuos interesados en utilizar el transporte público para llegar a un destino definido
+- Individuos interesados en utilizar el transporte público de la manera más eficiente
+- Individuos interesados en utilizar el transporte público para exponer su arte o productos
+- Inspectores interesados en revisar las distintas líneas de buses
+- Conductores y guardas interesados en conocer la parada determinada para su cambio de turno
+- Estudiantes y sus padres que utilicen el transporte público para ir a sus centros de estudio
